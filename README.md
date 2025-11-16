@@ -1,6 +1,4 @@
 
-Madhav Kumar
-7:27 PM
 <h1 align="center">Hi 👋, I'm Ayan Magardey</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
