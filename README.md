@@ -1,6 +1,5 @@
 <div align="center">
-  <img src=![(https://github.com/user-attachments/assets/fb246c13-4f83-4be0-80e3-323c73b8a99b)]
- alt="Coding GIF" width="400" />
+  <img src="./assets/waving.gif" alt="Hi, I'm Ayan waving!" width="250" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ayan Magardey</h1>
