@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1runRto15l3Bx_Lp8Jet70YrizKGl1Vi9/view?usp=drive_link" alt="Coding GIF" width="400" />
+  <img src=![waving](https://github.com/user-attachments/assets/fb246c13-4f83-4be0-80e3-323c73b8a99b)
+ alt="Coding GIF" width="400" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ayan Magardey</h1>
@@ -12,7 +13,8 @@
 - 🔭 I’m currently focused on **Full Stack Development** and **Cloud Technologies**.
 - 🌱 I’m currently diving deep into **React**
 - 🤝 I’m looking to collaborate on **Open Source Web Projects** or **Data Science Initiatives**.
-- 💬 Ask me about **Java**, **Angular**, or **any Web Development challenges**!
+- 💬 Ask me about **Java**, **Angular**, or **any Web Development challenges**!!
+
 - 📫 How to reach me: **ayanmagarde@gmail.com**
 - ⚡ Fun fact: **I think I can help you, just message 😆**
 
