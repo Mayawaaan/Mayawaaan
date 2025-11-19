@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ3NmN3bWl4ejczcTFnN3FzYmlqYmF4MTF2YXJ0M3V0eTh6dTRkZyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/8gqYwXj3i0eP5TzY7h/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://drive.google.com/file/d/1runRto15l3Bx_Lp8Jet70YrizKGl1Vi9/view?usp=drive_link" alt="Coding GIF" width="400" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ayan Magardey</h1>
