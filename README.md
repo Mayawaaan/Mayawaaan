@@ -10,10 +10,10 @@
 ## 💻 About Me
 
 - 🔭 I’m currently focused on **Full Stack Development** and **Cloud Technologies**.
-- 🌱 I’m currently diving deep into **[Specific Framework/Technology, e.g., Next.js or GoLang]**
+- 🌱 I’m currently diving deep into **React**
 - 🤝 I’m looking to collaborate on **Open Source Web Projects** or **Data Science Initiatives**.
 - 💬 Ask me about **Java**, **Angular**, or **any Web Development challenges**!
-- 📫 How to reach me: **[Your Email Address]**
+- 📫 How to reach me: **ayanmagarde@gmail.com**
 - ⚡ Fun fact: **I think I can help you, just message 😆**
 
 ---
@@ -21,8 +21,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&locale=en&theme=tokyonight" alt="Ayan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayawaaan&show_icons=true&locale=en&theme=tokyonight" alt="Ayan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayawaaan&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
@@ -63,12 +63,10 @@ Showcase your skills by grouping the most important ones first!
 ## 🤝 Connect with me:
 
 <p align="left">
-<a href="[Your LinkedIn URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/ayan-magardey-727483210/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="[Your Instagram URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="[Your LeetCode Profile URL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="[Your Discord Invite Link or Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Mayawaaan&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count"/>
 </p>
