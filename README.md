@@ -14,7 +14,7 @@
 - 🤝 I’m looking to collaborate on **Open Source Web Projects** or **Data Science Initiatives**.
 - 💬 Ask me about **Java**, **Angular**, or **any Web Development challenges**!!
 
-- 📫 How to reach me: **ayanmagarde@gmail.com**
+- 📫 How to reach me: **ayanmagardey@gmail.com**
 - ⚡ Fun fact: **I think I can help you, just message 😆**
 
 ---
