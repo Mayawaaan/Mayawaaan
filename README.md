@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=![waving](https://github.com/user-attachments/assets/fb246c13-4f83-4be0-80e3-323c73b8a99b)
+  <img src=![(https://github.com/user-attachments/assets/fb246c13-4f83-4be0-80e3-323c73b8a99b)]
  alt="Coding GIF" width="400" />
 </div>
 
