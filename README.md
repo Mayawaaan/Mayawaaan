@@ -99,7 +99,14 @@ I am a **Software Engineer** specializing in bridging the gap between highly int
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mayawaaan&label=Profile%20views&color=0e75b6&style=flat-square" alt="Visitor Count"/>
 </div>
-
+---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake.svg">
+    <img alt="Ayan's GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake.svg">
+  </picture>
+</div>
 ---
 <!-- Replace the broken Vercel URLs with these local paths -->
 <div align="center">
