@@ -115,3 +115,11 @@ I am a passionate **Software Engineer** from India 🇮🇳 with a degree in Com
 <div align="center">
   <i>Thanks for dropping by! Feel free to reach out or explore my repositories below. ⭐</i>
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake.svg">
+    <img alt="Ayan's GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake.svg">
+  </picture>
+</div>
