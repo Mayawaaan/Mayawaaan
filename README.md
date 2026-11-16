@@ -76,7 +76,7 @@ I am a **Software Engineer** specializing in bridging the gap between highly int
 <div align="center">
   <!-- Replace 'YOUR_REPO_NAME_1' with the exact name of your GitHub repository -->
   <a href="https://github.com/Mayawaaan/CryptoArt">
-    <img src="https://github.com/Mayawaaan/Mayawaaan/assets/Show1.png" alt="Project 1" width="48%" />
+    <img src="assets/Show1.png" alt="Project 1" width="48%" />
   </a>
   <a href="https://github.com/Mayawaaan/YOUR_REPO_NAME_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayawaaan&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" width="48%" />
