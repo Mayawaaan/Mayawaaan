@@ -78,8 +78,8 @@ I am a **Software Engineer** specializing in bridging the gap between highly int
   <a href="https://github.com/Mayawaaan/CryptoArt">
     <img src="assets/Show1.png" alt="Project 1" width="48%" />
   </a>
-  <a href="https://github.com/Mayawaaan/YOUR_REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayawaaan&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" width="48%" />
+  <a href="https://github.com/Mayawaaan/ChatApp">
+    <img src="assets/Bloop.png" alt="Project 2" width="48%" />
   </a>
 </div>
 
