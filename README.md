@@ -101,6 +101,13 @@ I am a **Software Engineer** specializing in bridging the gap between highly int
 </div>
 
 ---
+<!-- Replace the broken Vercel URLs with these local paths -->
+<div align="center">
+  <img src="./profile/stats.svg" alt="Ayan's GitHub Stats" width="48%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
+</div>
+
+---
 <div align="center">
   <i>Thanks for dropping by! Feel free to reach out or explore my repositories below. ⭐</i>
 </div>
