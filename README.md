@@ -38,7 +38,8 @@ I am a passionate **Software Engineer** from India 🇮🇳 with a degree in Com
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mayawaaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ayan's Trophies" />
+    <!-- Using the working mirror URL for trophies to prevent 503 errors -->
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Mayawaaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Ayan's Trophies" />
   </a>
 </div>
 
@@ -46,7 +47,7 @@ I am a passionate **Software Engineer** from India 🇮🇳 with a degree in Com
 
 ## 🚀 Top Projects
 
-*Replace the `repo-name` below with your actual repository names to showcase them beautifully.*
+*Replace the `YOUR_PROJECT_REPO` below with your actual repository names to showcase them beautifully.*
 
 <div align="center">
   <a href="https://github.com/Mayawaaan/YOUR_3D_PROJECT_REPO">
@@ -94,14 +95,20 @@ I am a passionate **Software Engineer** from India 🇮🇳 with a degree in Com
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <!-- Note: If these stats break due to API limits, swap the src links to "./profile/stats.svg" and "./profile/top-langs.svg" after running the GitHub Action we discussed -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mayawaaan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ayan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayawaaan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayawaaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
+<!-- Contribution Snake -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayawaaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake.svg">
+    <img alt="Ayan's GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -114,12 +121,4 @@ I am a passionate **Software Engineer** from India 🇮🇳 with a degree in Com
 ---
 <div align="center">
   <i>Thanks for dropping by! Feel free to reach out or explore my repositories below. ⭐</i>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake.svg">
-    <img alt="Ayan's GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/output/github-snake.svg">
-  </picture>
 </div>
