@@ -1,20 +1,27 @@
-name: Generate Stats
+name: Generate Local Stats
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule:
+    - cron: "0 */12 * * *" # Updates twice a day
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions: { contents: write }
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: stats-organization/github-readme-stats-action@v2
+      
+      - name: Create profile folder
+        run: mkdir -p profile
+        
+      - name: Fetch GitHub Stats
+        run: |
+          curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=Mayawaaan&theme=tokyonight&hide_border=true&bg_color=0D1117"
+          curl -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Mayawaaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+          
+      - name: Commit and Push SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          card: stats
-          options: 'username=Mayawaaan&theme=tokyonight&hide_border=true&bg_color=0D1117'
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: 'username=Mayawaaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Auto-update GitHub Stats SVGs"
+          file_pattern: "profile/*.svg"
