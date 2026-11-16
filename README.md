@@ -110,8 +110,8 @@ I am a **Software Engineer** specializing in bridging the gap between highly int
 ---
 <!-- Replace the broken Vercel URLs with these local paths -->
 <div align="center">
-  <img src="./profile/stats.svg" alt="Ayan's GitHub Stats" width="48%" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/main/profile/stats.svg" alt="Ayan's GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/Mayawaaan/Mayawaaan/main/profile/top-langs.svg" alt="Top Languages" width="48%" />
 </div>
 
 ---
