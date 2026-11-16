@@ -1,0 +1,20 @@
+name: Generate Stats
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: { contents: write }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=Mayawaaan&theme=tokyonight&hide_border=true&bg_color=0D1117'
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=Mayawaaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117'
+          token: ${{ secrets.GITHUB_TOKEN }}
