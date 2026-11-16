@@ -1,27 +1,27 @@
-name: Generate Local Stats
+name: GitHub Metrics
 on:
-  schedule:
-    - cron: "0 */12 * * *" # Updates twice a day
+  schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
-
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Create profile folder
-        run: mkdir -p profile
-        
-      - name: Fetch GitHub Stats
-        run: |
-          curl -o profile/stats.svg "https://github-readme-stats.vercel.app/api?username=Mayawaaan&theme=tokyonight&hide_border=true&bg_color=0D1117"
-          curl -o profile/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Mayawaaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-          
-      - name: Commit and Push SVGs
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: lowlighter/metrics@latest
         with:
-          commit_message: "Auto-update GitHub Stats SVGs"
-          file_pattern: "profile/*.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Mayawaaan
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          output_action: commit
+          committer_branch: main
